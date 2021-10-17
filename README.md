@@ -1,6 +1,9 @@
 # CPU_Implementation
 
+![](CPU.png)
 ![](ALU.png)
 ![](StateMachine.png)
 ![](Decoder.png)
-![](programcounter.png)
+![](ProgramCounter.png)
+![](SubSystem.png)
+![](InstructionMemory.png)

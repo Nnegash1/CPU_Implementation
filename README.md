@@ -6,6 +6,7 @@ The computer centeral processing unit(CPU) is the portion of a computer that ret
 
 ![](CPU.png)
 
+# ALU
 The arithmetic logic unit know as ALU is a combination of digital circuit that performs arithmetic and bitwise operations on integer numbers. In this project the ALU preforms 8-bit addition and subtraction. Furthermore, it does 'AND' and 'OR' bitwise operation.
 
 ![](ALU.png)
